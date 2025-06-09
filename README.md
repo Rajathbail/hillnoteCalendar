@@ -1,6 +1,6 @@
 # 📅 Calendar Plugin
 
-Bring time to your workspace. The **Calendar Plugin** adds a simple, elegant calendar view to your landing page — perfect for planning projects, tracking goals, or organizing your creative flow.
+The **Calendar Plugin** adds a simple, elegant calendar view to your landing page — perfect for planning projects, tracking goals, or organizing your creative flow.
 
 ---
 
